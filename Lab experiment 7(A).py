@@ -1,3 +1,10 @@
+''' Exception
+Handling
+
+A) If you give an index that is not in an range
+then it will throw an error 
+( error needs to be handled using try and except block.)'''
+
 try:
     n=int(input("Enter the range :  "))
     list_=[]
