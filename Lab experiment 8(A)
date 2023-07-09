@@ -1,3 +1,5 @@
+''' FILE HANDLING '''
+''' A)  Python program to read “n” lines from the filE'''
 try:
     file="sample.txt"
     files=open(file,'r')
