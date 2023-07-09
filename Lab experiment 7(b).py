@@ -1,3 +1,12 @@
+'''Exception
+Handling
+B)  Program to get the Name, Age, 6 Subjects marks as an
+input from the user. Then generate the dictionary 
+Before generating a dictionary you need to check whether the
+entered age value is positive or not. If negative then we should add
+the details to the dictionary.
+Use User-Defined Exception Handling'''
+
 class NegativeValue(Exception):
     pass
 try:
